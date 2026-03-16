@@ -1,5 +1,5 @@
-streamlit
-transformers
-torch
+streamlit==1.32.0
+transformers==4.38.0
+torch==2.2.0
 pandas
 numpy
