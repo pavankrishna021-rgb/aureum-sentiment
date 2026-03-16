@@ -1,7 +1,5 @@
 streamlit
 transformers
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 pandas
 numpy
-plotly
-sentencepiece
